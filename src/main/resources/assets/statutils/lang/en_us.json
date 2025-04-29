@@ -1,0 +1,5 @@
+{
+    "commands.stats.failed.invalid_stat_type": "Invalid stat type: %s",
+    "commands.stats.failed.invalid_stat": "Invalid stat '%s' for stat type '%s'",
+    "commands.stats.success": "Set %s to %s for %s player(s)"
+}
